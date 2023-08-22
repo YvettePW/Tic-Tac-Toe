@@ -1,5 +1,8 @@
 # Tic-Tac-Toe
-This is a Tic-Tac-Toe game. Two players compete (player O and player X) to win by creating a line in any direction. This exercise demonstrates my ability to create a game in React. To run this on your machine, download the files, type http-server -c-1 on your terminal, and go to http://localhost:8080. Additional functionality that would be helpful to a user for future iterations would be to add a history of winnings to the board.
+## Tic-Tac-Toe Exercise
+<img src="tictactoe.png" width='300'/><br>
+This is a Tic-Tac-Toe game. Two players compete (player O and player X) to win by creating a line in any direction. This exercise demonstrates my ability to create a game in React. To run this on your machine, download the files, type http-server -c-1 on your terminal, and go to http://localhost:8080.<br>
+Roadmap of Future Improvements: Additional functionality that would be helpful to a user for future iterations would be to add a history of winnings to the board so as to see who is better at the game overall: O or X. Another feature would be an option for each player to select a specific background color that further identifies them.
 
 MIT License Copyright (c) 2023 Yvette Watson
 
